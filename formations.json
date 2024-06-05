@@ -1,0 +1,31 @@
+[
+    {
+      "nom": "Directeur de projet numérique / UX Manager",
+      "lieu": "Gobelins Paris",
+      "date": "2021 - 2022",
+      "desc": "Mastère en UX et gestion de projet et rédaction d’un mémoire professionnel.Méthodes UX, recherche utilisateur, product management, gestion de projet \n\n",
+      "img": "logos/gobelins.png"
+    
+    },
+    {
+      "nom": "DSAA Design Interactif",
+      "lieu": "Pôle de design de Villefontaine",
+      "date": "2019-2021",
+      "desc": "Master en design interactif en alternance et rédaction d’un mémoire de recherche.UI/UX, investigations de terrain, tests utilisateurs, culture de l’innovation, creative coding, prototypage rapide\n\n",
+      "img": "logos/villefontaine.png"
+    },
+    {
+      "nom": "FCND - Année de césure",
+      "lieu": "ENSAAMA",
+      "date": "2018-2019",
+      "desc": "Application pendant 1 an des acquis des deux années précédentes lors de stage en associations.\nCommunication print et web, mise en page print, vidéos pédagogiques en motion design, créations d’outils internes et premières recherches utilisateur.",
+      "img": "logos/ensaama.png"
+    },
+    {
+      "nom": "BTS Design Graphique et Numérique",
+      "lieu": "ENSAAMA",
+      "date": "2016 - 2018",
+      "desc": "Acquisition d’une base solide en design graphique.\nOption numérique : motion design, web, vidéo ... ",
+      "img": "logos/ensaama.png"
+    }
+   ]

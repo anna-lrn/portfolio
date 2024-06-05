@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anna Larnicol // Product Designer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.9.2/lib/p5.js"></script>
+    <script src="p5.js"></script> -->
+    <script src="script.js"></script>
+
+</head>
+
+<body>
+    <div id="nav">
+        <div class="logo-anna">
+            <span class="color">
+                <</span> Anna Larnicol <span class="color">></span>
+        </div>
+        <div id="menu">
+            <!-- <a href="#projets"><button class="close-button">Projets</button></a> -->
+
+            <button id="aproposBTN" onclick="openAPropos()">A propos</button>
+            <button style="display: none;" onclick="toggleMode()">☼/☽</button>
+        </div>
+    </div>
+
+    <div id="hero">
+        <div id="hero-infos">
+            <h1 id="title">Salut, je suis <span class="underline">Anna</span>, <br><span class="color">Product
+                    Desginer</span> <span class="nowrap">depuis 3 ans.</span></h1>
+            <div>
+                <p>J’ai l’habitude de designer des logiciels <span class="bold">SaaS B2B</span> dans différentes
+                    start-ups <span class="nowrap">au début de&nbspleur aventure.</span>
+                </p>
+                <p>J’aide aussi de petites entreprises, principalement dans l'artisannat et l'art, <span
+                        class="nowrap">à créer <span class="bold">leur premier site web</span> avec des outils <span
+                            class="bold">no-code.</span></span></p>
+            </div>
+            <ul id="badges">
+                <li>Maquettes haute fidélité</li>
+                <li>Wireframe / Zoning</li>
+                <li>Kit UI / Design System</li>
+                <li>Entretiens utilisateur</li>
+                <li>Recherche utilisateur</li>
+                <li>Prototypes</li>
+                <li>Bases de programmation</li>
+                <li>Tech savvy</li>
+                <li>No-code</li>
+                <a href="https://www.linkedin.com/in/anna-larnicol/" target="_blank" class="lien"><img
+                        src="linkedin.png" alt="Linkedin" class="logo"></a>
+                <a href="https://dribbble.com/Anna_Larnicol" target="_blank" class="lien"><img src="dribbble.png"
+                        alt="Dribbble" class="logo"></a>
+                <a href="https://www.figma.com/@anna_larnicol" target="_blank" class="lien"><img src="figma.png"
+                        alt="Figma" class="logo"></a>
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="wrapper-column">
+        <div class="titre">
+            <h2 id="projets">Projets</h2>
+            <p>Sélection de travaux : en tant que designer intégrée, freelance ou encore projets étudiant.</p>
+        </div>
+        <div id="projects-list">
+        </div>
+    </div>
+
+    <div id="project-details" style="display: none;">
+        <div id="project-banner">
+            <img id="project-cover" class="desktop" src="" alt="Project Cover">
+            <div id="project-details-intro">
+                <div id="project-details-title">
+                    <div>
+                        <h2 id="project-title"></h2>
+                        <div id="project-details-subtitle">
+                            <p id="project-categorie"></p>
+                            <p class="color" style="font-weight: 700;">-</p>
+                            <p id="project-date"></p>
+                        </div>
+                    </div>
+                    <a href="#projets"><button class="close-button" id="close-button">X</button></a>
+                </div>
+                
+                <img id="project-cover2" class="mobile" src="" alt="Project Cover">
+                <hr>
+
+                <p id="project-description"></p>
+            </div>
+        </div>
+        <hr>
+        <div id="project-images">
+        </div>
+        <hr>
+        <a href="#projets"><button id="close-button2">Retour aux projets</button></a>
+    </div>
+    <div id="overlay" style="display: none;"></div>
+
+    <div id="apropos">
+        <div class="part1">
+            <div class="header">
+                <h2>A propos</h2>
+                <button class="close-button" id="aproposCloseBTN" onclick="closeAPropos()">X</button>
+            </div>
+            <p>Autonome et rigoureuse, j’ai un fort intérêt pour la tech, surtout quand elle est responsable et engagée.
+            </p>
+            <p>Les process métier complexes ne me font pas peur et je travaille main dans la main avec les développeurs.
+            </p>
+            <p>J’ai évolué principalement en tant que seule designer dans des start-up early stage/pre-PMF en B2B
+                (coopérative de données, app pour objet connecté, SaaS industriel). Cela m'a permis de collaborer en
+                lien étroit avec des équipes très variées.</p>
+            <img src="tele.jpg" alt="">
+            <div class="spacer"></div>
+            <h3>Experiences</h3>
+            <div id="experiences" class="blocTimeline"></div>
+            <div class="spacer"></div>
+            <h3>Formations</h3>
+            <div id="formations" class="blocTimeline"></div>
+        </div>
+
+    </div>
+    <div id="aproposOverlay" onclick="closeAPropos()" style="display: none;"></div>
+
+    <div class="footer">© 2024 - <a href="mentions-legales.html">Mentions Légales</a> </div>
+
+</body>
+
+</html>

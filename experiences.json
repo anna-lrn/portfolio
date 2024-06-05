@@ -1,0 +1,38 @@
+[
+    {
+      "poste": "Product Designer à Vitesse",
+      "date": "Janvier 2024 - Aujourd’hui",
+      "desc": "Gestion de la partie delivery du produit et recherche utilisateur. Conception de flux utilisateurs, maquettes hautes fidélités, identité visuelle et objets de communication. Préparation, déroulé et analyse d'entretiens utilisateurs. Accompagnement des utilisateurs lors de leur emploi de l'application.",
+      "img": "logos/vitesse.png"
+    },
+    {
+      "poste": "Product Designer à Niagara",
+      "date": "Novembre 2021 - Décembre 2024",
+      "desc": "Gestion de la partie delivery du produit et recherche utilisateur. Conception de flux utilisateurs, maquettes hautes fidélités, identité visuelle et objets de communication. Préparation, déroulé et analyse d'entretiens utilisateurs. Accompagnement des utilisateurs lors de leur emploi de l'application.",
+      "img": "logos/niagara.png"
+    },
+    {
+      "poste": "Designer UX/UI à Seaver",
+      "date": "Juillet 2021 - Octobre 2022",
+      "desc": "Refonte et harmonisation UI totale de l’app. Mise en place d’un design system, d’une organisation sur Figma et de process de test utilisateur.",
+      "img": "logos/seaver.png"
+    },
+    {
+      "poste": "Designer UX/UI à myCo",
+      "date": "Juillet 2020 - Juin 2021",
+      "desc": "Participation aux atiliers d’idéation, facilitation graphique.Production des maquettes basses et hautes fidélités.",
+      "img": "logos/myco.png"
+    },
+    {
+      "poste": "Graphiste Multimédia à Entourage",
+      "date": "Avril 2019 - Juin 2019",
+      "desc": "Conception de supports de communication à destination des personnes sans-abri avec des méthodes centrées utilisateur.\nMise en place d’outils en interne afin d’unifier l’utilisation de la charte graphique remise à jour.",
+      "img": "logos/entourage.png"
+    },
+    {
+      "poste": "Graphiste Multimédia à Coexister",
+      "date": "Septembre 2018 - Mai 2019",
+      "desc": "Conception de différents types de supports communication print et web. Réalisation de vidéos pédagogique en motion design.",
+      "img": "logos/coexister.png"
+    }
+   ]

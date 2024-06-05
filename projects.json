@@ -1,0 +1,230 @@
+[
+    {
+        "titre": "Identité Visuelle pour une avocate",
+        "cover": "cover/lolaID.png",
+        "client": "Maître Klein",
+        "categorie": "Identité visuelle / Graphisme",
+        "desc-courte": "",
+        "desc-longue": "<p>Lola Kleinfinger est avocate en droit international et de la famille. Elle vient de changer de cabinet pour passer à mi-temps et commencer sa pratique à son compte. Pour cela, elle a besoin d’une base d’identité visuelle.</p><p>Elle décrit sa clientèle ayant besoin d’un équilibre entre professionnalisme, sérieux, et ordre et réassurance, transparence et  accueil.</p><p>Nous avons donc opté pour un logo monogramme classique, mais en jouant avec les courbes. La couleur principale, un vert plutôt froid, est réchauffé par des couleurs de fond chaudes dans les tons beiges. </p><p>Même question d’équilibre entre l’aspect pro mais rassurant, la typographie de titrages est une serif contrastée assez classique alors que le texte de labeur est une géométrique plus contemporaine.</p>",
+        "equipe": "",
+        "date" : "2024",
+        "images": ["lolaID1.png","lolaID2.png","lolaID3.png","lolaID4.png"]
+    },
+    {
+        "titre": "Templates Instagram pour une avocate",
+        "cover": "cover/lola.png",
+        "client": "Maître Klein",
+        "categorie": "Graphisme",
+        "desc-courte": "",
+        "desc-longue": "<p>Après la création de son identité, nous avons enchaîné avec la préparation de sa communication sur les réseaux sociaux. Sa clientèle étant principalement des particuliers, Instagram est un point de contact à privilégier. Nous avons donc réfléchi a des formats permettant de vulgariser et rendre accessible des notions de droit.</p><p>On garde des contrastes forts pour rester le plus accessible et la possibilité d’avoir plus ou moins de texte en fonction du besoin.</p><p>Pour lui permettre d’être autonome, je lui ai proposé un set de visuels facilement modifiables et déclinables sur Canva.",
+        "equipe": "",
+        "date" : "2024",
+        "images": ["lola1.png", "lola2.png", "lola3.png","lola4.png","lola5.png","lola6.png","lola7.png","lola8.png","lola9.png"]
+    },
+    {
+        "titre": "Vitesse - Designer Web",
+        "cover": "cover/vitesse.png",
+        "client": "Vitesse",
+        "categorie": "Product Design",
+        "desc-courte": "",
+        "desc-longue": "",
+        "equipe": "Anne Le",
+        "date" : "2024",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Vitesse - Identité",
+        "cover": "cover/vitesseID.png",
+        "client": "Vitesse",
+        "categorie": "Identité visuelle",
+        "desc-courte": "Vitesse est la fusion de Full Speed Automation et Niagara. Il s’agit donc de construire une base commune à la fois pour la communication et pour le produit.",
+        "desc-longue": "\"Vitesse\" est le fruit de l'alliance entre Full Speed Automation et Niagara, visant à créer une base commune pour une communication et un développement de produit harmonieux. L'objectif est de fusionner le côté professionnel de Full Speed Automation (l’utilisation bleu, blanc, noir) avec l'aspect contemporain de Niagara (les dégradés et le bleu turquoise). On y ajoute de la texture et quelques couleurs pour rappeler qu'on ne fait pas que du code ici : on touche directement au terrain en se connectant aux machines, notamment grâce à du hardware.",
+        "equipe": "Anne Le",
+        "date" : "2023",
+        "images": ["vitesseID1.png","vitesseID2.png","vitesseID3.png","vitesseID4.png","vitesseID5.png","vitesseID6.png","vitesseID7.png","vitesseID8.png","vitesseID9.png"]
+    },
+    {
+        "titre": "Vitesse - Site web",
+        "cover": "cover/vitesse.png",
+        "client": "Vitesse",
+        "categorie": "Site vitrine",
+        "desc-courte": "Site vitrine mettant en avant les différentes offres de l’entreprise Vitesse : hardware et logiciel.",
+        "desc-longue": "",
+        "equipe": "",
+        "date" : "2024",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Niagara - Site web",
+        "cover": "cover/niag-site.png",
+        "client": "Niagara",
+        "categorie": "Identité visuelle, SEO, Site vitrine",
+        "desc-courte": "Site vitrine mettant en avant les différentes fonctionnalités du logiciel SaaS Niagara.",
+        "desc-longue": "<p>Niagara est une plateforme de donnée industrielle. En tant que SaaS B2B, sa principale vitrine est son site web et son blog. Que je suis arrivée, les bases de l’identité visuelle étaient déjà là : un logo, des couleurs et une typographie. Au court des deux passés en tant que designer dans cette entreprise, j’ai pu faire doucement la faire évoluer : </p><ul><li>En jouant avec les couleurs autres que les deux bleus principaux</li><li>En faisant des tests d’iconographie</li></ul><p>L’idée était d’avoir une identité professionnelle mais fraiche, en rupture avec la concurrence. </p>",
+        "equipe": "Pierrick Boissel",
+        "date" : "2022-2023",
+        "images": ["niag-site1.png","niag-site2.png","niag-site3.png","niag-site4.png"],
+        "imageDescriptions": {
+            "niag-site4.png": "J’ai créé une série d’illustrations 3D pour les principales fonctionnalités. Ces images sont utilisées comme repère en haut de chaque page produit. Elles rappellent le hero, dans le même style -- animé pendant un temps, puis ramené à une image pour améliorer les performances du site."
+        }
+    },
+    {
+        "titre": "Niagara - Illustrations 3D - Industrie 4.0",
+        "cover": "cover/niag-3d.png",
+        "client": "Niagara",
+        "categorie": "Design System",
+        "desc-courte": "Pour différencier encore plus Niagara des ses concurrents, j’ai créé une série d’illustrations en 3D. ",
+        "desc-longue": "Pour différencier encore plus Niagara des ses concurrents, j’ai créé une série d’illustrations en 3D. ",
+        "equipe": "",
+        "date" : "2023",
+        "images": ["niag-3d1.png","niag-3d2.png","niag-3d4.png","niag-3d4.png","niag-3d5.png","niag-3d6.png","niag-3d7.png"]
+    },
+    {
+        "titre": "Niagara - Jumeau Numérique",
+        "cover": "cover/niagara.png",
+        "client": "Niagara",
+        "categorie": "Product Design",
+        "desc-courte": "",
+        "desc-longue": "",
+        "equipe": "",
+        "date" : "2023",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "MyCo",
+        "cover": "cover/myco.png",
+        "client": "MyCo",
+        "categorie": "Design System",
+        "desc-courte": "",
+        "desc-longue": "J'ai pu proposer ce projet afin de répondre au besoin d’accélérer le développement et augmenter la consistance des interfaces. Plus proche de l’UI Kit qu’autre chose, il a été mon premier contact avec un design system.\n\nSeule designer, j’ai commencé par créé les composants Figma qui se répétaient.\n\nEnsuite, nous nous sommes rassemblés avec les développeurs, avons comparé mes composants avec leur existant. En cas de différence entre les composants design et les composants développés, nous décidions quel était le meilleur choix : modifier le design ou le code.\n\nCe travail s’est fait petit à petit pendant 6 mois.",
+        "equipe": "",
+        "date" : "2021",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Où sont les informaticiennes ?",
+        "cover": "cover/ada.png",
+        "client": "Projet étudiant",
+        "categorie": "Mémoire",
+        "desc-courte": "Mémoire de recherche questionnant la place des femmes dans la programmation.",
+        "desc-longue": "Quand on se penche sur l’histoire de l’informatique, on remarque une chose : elle est intrinsèquement féminine. Des calculatrices de la NASA aux demoiselles du téléphone, comment explique-t-on la disparition des femmes dans ce milieu désormais labellisé comme masculin ? Pourquoi st-il nécessaire de rétablir la balance ? Et comment ? Ce sont des questions que j’ai pu me poser lors de ma deuxième année de DSAA au pôle de design de Villefontaine. Ma recherche et mes expérimentations sont consignées dans ce mémoire.\n\nTutrices de mémoire : France Corbel et Valentine Reynaud.\nPrésidente du jury : Laurence Allard",
+        "equipe": "France Corbel, Valentine Reynaud",
+        "date" : "2021",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Kit de survie du designer en solo",
+        "cover": "cover/ada.png",
+        "client": "Projet étudiant",
+        "categorie": "Mémoire",
+        "desc-courte": "Mémoire professionnel questionnant la place des designer seuls dans une entreprise.",
+        "desc-longue": "",
+        "equipe": "Antoine Visonneau",
+        "date" : "2022",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Seaver",
+        "cover": "cover/seaver.png",
+        "client": "Seaver Horse",
+        "categorie": "Refonte UI",
+        "desc-courte": "Refonte UI de l’application Seaver : UI kit, règles d’utilisation des fichiers, illustrations, migration vers Figma.",
+        "desc-longue": "L’application Seaver permet aux cavaliers de monitorer les constantes de leur cheval lors de la pratique de l’équitation. Sur 3 mois, ma mission était d’uniformiser l’app qui avait subi le passage des différents designers au fil des features, puis d’améliorer l’aspect visuel des principales fonctionnalités. Après une cartographie de l’application (et la redécouverte de fonctionnalités pour certains membres de l’équipe), j’ai d’abord proposé une migration d’Adobe XD vers Figma afin de collaborer plus facilement avec les 3 developpeur.euse.s. Ensuite, j’ai établi un kit UI et une organisation des fichiers pour créer une base pouvant être utilisée par d’autres designers. Ainsi, ils n’auront plus à devoir rechercher et comprendre par eux-mêmes le fonctionnement de l’application.",
+        "equipe": "",
+        "date" : "2021",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Illustrations équestres",
+        "cover": "cover/seaver.png",
+        "client": "Seaver Horse",
+        "categorie": "Illustrations",
+        "desc-courte": "Pour une application de sports équestres — permettant aux cavaliers de monitorer les constantes de leurs chevaux lors de leur pratique — j’ai créé un set d’illustration représentant les principales fonctionnalités.",
+        "desc-longue": "Pour une application de sports équestres — permettant aux cavaliers de monitorer les constantes de leurs chevaux lors de leur pratique — j’ai créé un set d’illustration représentant les principales fonctionnalités. L’enjeu ? Dessiner de manière constante un cheval. Pour cela, j’ai utilisé un jeu de formes que j’ai réarrangé pour chaque illustration. Ainsi, le cheval représenté sur chaque image a les mêmes proportions et la même allure. Grâce à cette technique, j’ai pu illustrer d’autres images par la suite en gardant la même consistance.",
+        "equipe": "",
+        "date" : "2021",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "L’Epicurienne",
+        "cover": "cover/epicurienne.png",
+        "client": "L’Epicurienne",
+        "categorie": "Site vitrine",
+        "desc-courte": "Site vitrine et identité pour un food-truck",
+        "desc-longue": "<p>Océane est venue vers moi avec un besoin simple : il lui faut des maquettes pour qu’un proche développeur lui construise son site web. En effet, elle lance dans quelque mois l’Épicurienne, un food truck semi-gastronomique. Seulement voilà, elle a un budget serré et aucune charte graphique.</p><p>→ Efficace et malin ont donc été nos maîtres mots.</p><p>Pour respecter le budget, je n’ai fait que deux propositions visuelles avec un concept basé sur la frugalité et le réemploi de contenu. Aussi nous avons défini et limité le nombre d’aller-retour.</p><p>J'ai fourni à Océane le fichier Figma avec toutes les pages et une fiche UI détaillant les différents styles.</p>",
+        "equipe": "",
+        "date" : "2021",
+        "images": ["oceane1.png","oceane2.png","oceane3.png","oceane4.png","oceane5.png"],
+        "imageDescriptions": {
+            "oceane1.png": "Je lui ai demandé de me fournir toutes les images qu’elle avait à propos de son projet. Dans le lot, une photo de son camion au garage dont je m’inspire pour les couleurs et pour la structure (beige, trait rouge, bleu clair).",
+            "oceane2.png": "Nous utilisons la typographie d'un flyer existant pour le logo. Cela limite les choix et augmente la consistance visuelle à travers ses différents supports de communications.",
+            "oceane3.png": "Pour le site en lui-même, nous avons réduit ou réutilisé du contenu au maximum. La page d'accueil offre un aperçu rapide de l'offre, puis utilise les visuels de la page Instagram pour immerger le visiteur dans l'univers de L'Épicurienne."
+        }
+    },
+    {
+        "titre": "Haras des Campaux",
+        "cover": "cover/hdc.png",
+        "client": "Haras des Campaux",
+        "categorie": "Identité visuelle, Site vitrine",
+        "desc-courte": "",
+        "desc-longue": "Ce projet n’a jamais vu le jour, mais ce fut une belle aventure de design. Dans un cadre idyllique, l'équipe du Haras des Campaux vous accueille toute l'année pour vivre des moments équestres d'exception dans le respect et la bienveillance.",
+        "equipe": "",
+        "date" : "2022",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Mathilde Jallot",
+        "cover": "cover/mathilde.png",
+        "client": "Mathilde Jallot",
+        "categorie": "Identité visuelle, Site vitrine",
+        "desc-courte": "",
+        "desc-longue": "<p>Mathilde Jallot est artiste laqueuse : son art se situe à la frontière entre le vernis et la peinture. Nous avons créé un site simple avec une galerie, une page par projet, un blog, une vitrine et une page contact. </p><p>L'idée était de mettre en valeur l'image. Le site Internet devait se fondre derrière les œuvres de l'artiste. Nous avons une identité simple en noir et blanc avec une typographie élégante mais discrète. </p><p>Nous avons conçu une page modèle de projet modulaire s'adaptant à la quantité de contenu (texte, image). </p><p>Aidée de ses vidéos de formations sur-mesure, Mathilde pourra désormais ajouter et modifier des projets en toute autonomie.</p>",
+        "equipe": "",
+        "date" : "2023",
+        "images": ["mathou1.png","mathou2.png","mathou3.png","mathou4.png","mathou5.png"]
+    },
+    {
+        "titre": "Super Tux Kart",
+        "cover": "cover/tux.png",
+        "client": "Projet étudiant",
+        "categorie": "Interaction tangible",
+        "desc-courte": "Construction d’une interface immersive en Arduino pour l’utilisation d’un jeu de Kart.",
+        "desc-longue": "Objectif : construire une interface tangible pour un jeu de kart\nContraintes : tout doit être construit avec des objets de récupérations et deux joueurs doivent conduire le même kart (une “manette” = deux joueurs)\n\nDeux bâtons de skis se trouvaient dans la pile d’objet que nous avons pu récupérer. Ils sont devenus le point de départ de notre projet : nous avons donc construit une “luge” et des “skis” pour contrôler notre kart.\n\nNous avons commencé par choisir les objets pour chaque interaction nécessaire au contrôle du kart. Une fois notre choix fait nous nous sommes séparés en deux équipes : les designers interactifs se sont concentrées sur le code et l’électronique et les designers produits se sont dédiées à la construction du kart.\n\nLe kart a été présenté lors de portes ouvertes du Pôle Supérieur de Design de Villefontaine en février 2020.\n\nInteractions :\nLuge :\n- Gauche/Droite : presser les éponges des guides de la luge pour activer des boutons\n- Avancer/Reculer : casserole posée sur des cannettes → levier avec un potentiomètre\n- Regarder derrière : avec le pied, cacher le capteur de lumière\nSkis :\n- : soulever un bâton et déclencher le capteur de lumière\n- : avancer un bâton et faire tourner le potentiomètre\n- : presser les épingles et libérer le bouton\n- Accélération / Nitro : s’accroupir et déclencher le capteur à ultrason.\n\nCe projet nous a permis de réaliser l’intérêt de prototyper, et qu’il était facile et rapide de le faire, même à grande échelle.",
+        "equipe": "Alexia Drevon, Emma Douangvichit et Julie Calmettes",
+        "date" : "2019",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Mykrolis",
+        "cover": "cover/mykrolis.png",
+        "client": "Mirage Festival - étudiant",
+        "categorie": "Interaction tangible",
+        "desc-courte": "Le projet Mykrolis est une expérimentation faite à 3 dans le cadre du Mirage Festival.",
+        "desc-longue": "Le projet Mykrolis est une expérimentation faite à 3 dans le cadre du Mirage Festival.",
+        "equipe": "Margot Buisson et Julie Deniel",
+        "date" : "2020",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Entourage - Support d’invitations pour personnes SDF",
+        "cover": "cover/entourage.png",
+        "client": "Entourage",
+        "categorie": "Print",
+        "desc-courte": "Après un rapide atelier réalisé auprès de personnes concernées, nous sommes partis du constat que les personnes SDF ne se sentaient pas visées par la communication print traditionnelle. Nous avons donc créé un carton d’invitation que les bénévoles de l’association pouvaient personnaliser à chaque rencontre.",
+        "desc-longue": "",
+        "equipe": "",
+        "date" : "2019",
+        "images": ["lola1.png"]
+    },
+    {
+        "titre": "Coexister - Vidéos convictions",
+        "cover": "cover/coexister.png",
+        "client": "Coexister",
+        "categorie": "Motion design",
+        "desc-courte": "",
+        "desc-longue": "",
+        "equipe": "Lucie Roche",
+        "date" : "2019",
+        "images": ["lola1.png"]
+    }
+]
